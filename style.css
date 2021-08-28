@@ -52,3 +52,6 @@ p{
     text-decoration: none;
     color: white;
 }
+a .btn:hover{
+    background-color: rgb(226, 139, 153);
+}
